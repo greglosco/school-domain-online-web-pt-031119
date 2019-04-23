@@ -21,7 +21,6 @@ class School
     sorted_list = {}
     roster.each {|grade, students|
     sorted_list[grade] = students.sort}
-  end
   sorted_list
 end
   
