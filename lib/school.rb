@@ -23,5 +23,5 @@ class School
     sorted_list[grade] = student_name.sort
      }
   end
-
+sorted_list
 end
