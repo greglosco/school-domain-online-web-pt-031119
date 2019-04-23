@@ -24,3 +24,4 @@ class School
   end
   sorted_list
 end
+end
